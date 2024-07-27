@@ -1,1 +1,36 @@
 
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Brasil[/COLOR][/B]</name>
+   <thumbnail>https://images2.imgbox.com/58/16/hHEPB91p_o.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/Kalildon/Canal-tv/main/Cbr</externallink>
+   <fanart>https://images2.imgbox.com/1e/e3/IA1JksQB_o.jpg</fanart>
+  <info>[COLOR yellow]Se alguns canais do BRASIL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+  </info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Espanha[/COLOR][/B]</name>
+   <thumbnail>https://images2.imgbox.com/34/94/WrCLNYxF_o.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/Kalildon/Canal-tv/main/Ces</externallink>
+   <fanart>https://images2.imgbox.com/fd/14/l6jWGK71_o.jpg</fanart>
+  <info>[COLOR yellow]Se alguns canais da ESPANHA live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+  </info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Portugal[/COLOR][/B]</name>
+   <thumbnail>https://images2.imgbox.com/f0/85/B6VplK9o_o.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/Kalildon/Canal-tv/main/Cpt
+</externallink>
+   <fanart>https://images2.imgbox.com/e0/bb/yEp6rNii_o.jpg</fanart>
+  <info>[COLOR yellow]Se alguns canais de PORTUGAL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+  </info>
+</channel>
+#
+
+
+</channels>
