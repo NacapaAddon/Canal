@@ -1,0 +1,143 @@
+<item>
+<title>[B][COLOR gold]●[/COLOR] [COLOR lime]CANAIS ABERTOS PORTUGAL[/COLOR][COLOR gold]●[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://archive.org/download/iconFONTES/iconFONTES.png</thumbnail>
+<fanart>https://archive.org/download/iconFONTES/iconFONTES.png</fanart>
+<info>A BoxStream é a solução ideal para quem deseja ter acesso aos principais canais abertos de Portugal diretamente. Com a BoxStream, você pode desfrutar de uma ampla variedade de conteúdos, desde notícias e entretenimento até esportes e programas infantis, tudo com a qualidade e a conveniência que você merece. Tenha acesso a canais como RTP1, SIC, TVI e muitos outros, garantindo que você e sua família estejam sempre conectados com o melhor da programação portuguesa. Além disso, a interface intuitiva e os menus personalizáveis tornam a navegação uma experiência simples e agradável. Transforme sua TV em um verdadeiro centro de entretenimento!</info>
+</item> 
+##############################
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]SIC[/COLOR][/B]</title>
+<link>https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8</link>
+<thumbnail>https://images2.imgbox.com/40/02/YNo6gvIM_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/40/02/YNo6gvIM_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item> 
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVI[/COLOR][/B]</title>
+<link>https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI0IDQ6MTc6NTkgUE0maGFzaF92YWx1ZT1PYjAyaHJjMlJtdVRyRURPamU3a2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTdhNjM3M2UtY2U4Ni00MDFhLTk3Y2ItM2NiZWMxMDNmOTNj</link>
+<thumbnail>https://images2.imgbox.com/bd/d1/ZwHU477a_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/bd/d1/ZwHU477a_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVI Reality[/COLOR][/B]</title>
+<link>https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=112326308</link>
+<thumbnail>https://images2.imgbox.com/35/c8/xB1U4Uv2_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/35/c8/xB1U4Uv2_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item> 
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVI África[/COLOR][/B]</title>
+<link>https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8</link>
+<thumbnail>https://images2.imgbox.com/8a/e6/KmjYR0kG_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/8a/e6/KmjYR0kG_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item> 
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVI Ficção[/COLOR][/B]</title>
+<link>https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=22004070</link>
+<thumbnail>https://images2.imgbox.com/4f/9b/hHyVX3xc_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/4f/9b/hHyVX3xc_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>  
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]RTP 1[/COLOR][/B]</title>
+<link>https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1020481382.m3u8</link>
+<thumbnail>https://images2.imgbox.com/b2/37/j30Em1md_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/b2/37/j30Em1md_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>    
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]CNN pt[/COLOR][/B]</title>
+<link>https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=493470108&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI0IDY6MTg6MjYgUE0maGFzaF92YWx1ZT0rWWNRVHZmNnRGZk1zQ0lQckd4MzBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTI4YTNiYzQtMzY2OC00ZTc3LWJiZWItMjZlZWQ4YTk2MDc2</link>
+<thumbnail>https://images2.imgbox.com/cd/93/15y9Hqsy_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/cd/93/15y9Hqsy_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Euronews PT[/COLOR][/B]</title>
+<link>https://euronews-euronews-portugues-1-us.plex.wurl.tv/06c92ea44b917abfb032df4eebd72566.m3u8</link>
+<thumbnail>https://images2.imgbox.com/49/d5/luknoeqL_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/49/d5/luknoeqL_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Porto canal[/COLOR][/B]</title>
+<link>https://live-b.cf.dmcdn.net/sec2(Z0Egpo-YCG8EpRyqSW31ww-ww9vb4hEhlgzH9QErlorPpRQoT9fWm9ruljT4yybgGQpdltPF93aQpEQVBJKcc54gs-8gdPmLWs2pHnPYvX8)/dm/3/x8egnb8/s/live-2.m3u8</link>
+<thumbnail>https://images2.imgbox.com/32/a0/DuE6rMqi_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/32/a0/DuE6rMqi_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Kuriakos Cine[/COLOR][/B]</title>
+<link>https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w746553679_b1548000_sleng.m3u8</link>
+<thumbnail>https://images2.imgbox.com/35/97/8mLSWZgk_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/35/97/8mLSWZgk_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item> 
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Kuriakos Kids[/COLOR][/B]</title>
+<link>https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1028743933_b1548000_sleng.m3u8</link>
+<thumbnail>https://images2.imgbox.com/0b/96/7f9K2A08_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/0b/96/7f9K2A08_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Kuriakos Tv[/COLOR][/B]</title>
+<link>https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1910917141_b1548000_sleng.m3u8</link>
+<thumbnail>https://images2.imgbox.com/e4/4b/bGgU0WHg_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/e4/4b/bGgU0WHg_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]ON FM Portugal[/COLOR][/B]</title>
+<link>https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w712933680.m3u8</link>
+<thumbnail>https://images2.imgbox.com/c9/ae/QOuWa7IX_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/c9/ae/QOuWa7IX_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Kuriakos Music[/COLOR][/B]</title>
+<link>https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w928111427_b30048000_sleng.m3u8</link>
+<thumbnail>https://images2.imgbox.com/d0/c5/A81JwAaO_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/d0/c5/A81JwAaO_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Sobrenatural TV[/COLOR][/B]</title>
+<link>https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1a1/rewind-3600.m3u8</link>
+<thumbnail>https://images2.imgbox.com/9c/b9/5MeXKx4z_o.png</thumbnail>
+<fanart>https://images2.imgbox.com/9c/b9/5MeXKx4z_o.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>    
+

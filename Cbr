@@ -1,0 +1,242 @@
+<item>
+<title>[B][COLOR gold]●[/COLOR] [COLOR lime]CANAIS ABERTOS BRASIL[/COLOR][COLOR gold]●[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://archive.org/download/iconFONTES/iconFONTES.png</thumbnail>
+<fanart>https://archive.org/download/iconFONTES/iconFONTES.png</fanart>
+<info>No BoxStream, você tem acesso aos principais canais abertos brasileiros, como Globo, SBT, Record e Band, em alta qualidade. Nossa plataforma garante uma transmissão estável e sem interrupções, com uma interface intuitiva que facilita a navegação. Personalize suas listas de favoritos e assista a qualquer momento em diversos dispositivos. Atualizações constantes garantem que você sempre tenha acesso ao melhor conteúdo disponível. BoxStream é gratuito, legalizado e com suporte ao cliente dedicado. Transforme sua experiência de assistir TV com o BoxStream!</info>
+##############################
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]CNN Brasil[/COLOR][/B]</title>
+<link>https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w380738139.m3u8</link>
+<thumbnail>https://ia800405.us.archive.org/19/items/icon-cnn/icon%20CNN.PNG</thumbnail>
+<fanart>https://ia800405.us.archive.org/19/items/icon-cnn/icon%20CNN.PNG</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]SBT Brasília[/COLOR][/B]</title>
+<link>https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8</link>
+<thumbnail>https://ia903202.us.archive.org/19/items/sbt-brasilia/SBT%20Bras%C3%ADlia.png</thumbnail>
+<fanart>https://ia903202.us.archive.org/19/items/sbt-brasilia/SBT%20Bras%C3%ADlia.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Cidade Verde (SBT (PI)[/COLOR][/B]</title>
+<link>https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1944299122.m3u8</link>
+<thumbnail>https://ia600405.us.archive.org/31/items/tv-cidade-verde/TV%20Cidade%20Verde.png</thumbnail>
+<fanart>https://ia600405.us.archive.org/31/items/tv-cidade-verde/TV%20Cidade%20Verde.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Jovem Pan(SP)[/COLOR][/B]</title>
+<link>https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8</link>
+<thumbnail>https://ia600403.us.archive.org/7/items/icon-jovem-pan/icon%20JOVEM%20PAN.png</thumbnail>
+<fanart>https://ia600403.us.archive.org/7/items/icon-jovem-pan/icon%20JOVEM%20PAN.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVE (RS)[/COLOR][/B]</title>
+<link>https://streaming.procergs.com.br:8443/tve/stve/chunklist_w18386224.m3u8</link>
+<thumbnail>https://ia802709.us.archive.org/35/items/tve-rs/TVE%20RS.png</thumbnail>
+<fanart>https://ia802709.us.archive.org/35/items/tve-rs/TVE%20RS.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Cultura[/COLOR][/B]</title>
+<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1879721193.m3u8</link>
+<thumbnail>https://ia600409.us.archive.org/1/items/tv-cultura/TV%20Cultura.png</thumbnail>
+<fanart>https://ia600409.us.archive.org/1/items/tv-cultura/TV%20Cultura.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Pampa (Rede TV RS)[/COLOR][/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1219444447.m3u8</link>
+<thumbnail>https://ia600403.us.archive.org/35/items/tv-pampa-rede-tv-rs/TV%20Pampa%20%28Rede%20TV%20RS%29.png</thumbnail>
+<fanart>https://ia600403.us.archive.org/35/items/tv-pampa-rede-tv-rs/TV%20Pampa%20%28Rede%20TV%20RS%29.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]catve(PR)[/COLOR][/B]</title>
+<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w143651179.m3u8</link>
+<thumbnail>https://archive.org/download/iconCATVE/iconCATVE.PNG</thumbnail>
+<fanart>https://archive.org/download/iconCATVE/iconCATVE.PNG</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]MyTime Movie Network - Brasil[/COLOR][/B]</title>
+<link>https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://ia904708.us.archive.org/19/items/my-time-movie-network/MyTime%20Movie%20Network.png</thumbnail>
+<fanart>https://ia904708.us.archive.org/19/items/my-time-movie-network/MyTime%20Movie%20Network.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Brasil[/COLOR][/B]</title>
+<link>https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w1633443614.m3u8</link>
+<thumbnail>https://ia600408.us.archive.org/8/items/icon-rede-brasil/icon%20REDE%20BRASIL.png</thumbnail>
+<fanart>https://ia600408.us.archive.org/8/items/icon-rede-brasil/icon%20REDE%20BRASIL.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Arapuan [/COLOR][/B]</title>
+<link>https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8</link>
+<thumbnail>https://archive.org/download/iconTVARAPUAN/iconTVARAPUAN.png</thumbnail>
+<fanart>https://archive.org/download/iconTVARAPUAN/iconTVARAPUAN.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Brasil[/COLOR][/B]</title>
+<link>https://tvbrasil-stream.ebc.com.br/chunks.m3u8</link>
+<thumbnail>https://archive.org/download/iconTVBRASIL/iconTVBRASIL.png</thumbnail>
+<fanart>https://archive.org/download/iconTVBRASIL/iconTVBRASIL.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Nova Play[/COLOR][/B]</title>
+<link>https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w2027312851.m3u8</link>
+<thumbnail>https://ia902902.us.archive.org/28/items/iconplay_202406/iconPLAY.png</thumbnail>
+<fanart>https://ia902902.us.archive.org/28/items/iconplay_202406/iconPLAY.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Cine[/COLOR][/B]</title>
+<link>https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1169653935.m3u8</link>
+<thumbnail>https://ia600401.us.archive.org/23/items/icon-tvcine_202406/icon%20TVCINE.png</thumbnail>
+<fanart>https://ia600401.us.archive.org/23/items/icon-tvcine_202406/icon%20TVCINE.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+3
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV MAX[/COLOR][/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8</link>
+<thumbnail>https://ia903405.us.archive.org/11/items/icontvmax_202406/iconTVMAX.png</thumbnail>
+<fanart>https://ia903405.us.archive.org/11/items/icontvmax_202406/iconTVMAX.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal 29[/COLOR][/B]</title>
+<link>https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8</link>
+<thumbnail>https://archive.org/download/iconCANAL29/iconCANAL29.png</thumbnail>
+<fanart>https://archive.org/download/iconCANAL29/iconCANAL29.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Clouding TV[/COLOR][/B]</title>
+<link>https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1963435910.m3u8</link>
+<thumbnail>https://ia902708.us.archive.org/33/items/icon-clouding-tv/icon%20Clouding%20TV.png</thumbnail>
+<fanart>https://ia902708.us.archive.org/33/items/icon-clouding-tv/icon%20Clouding%20TV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Vida (SP)[/COLOR][/B]</title>
+<link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8</link>
+<thumbnail>https://ia902702.us.archive.org/25/items/icon-rede-vida/icon%20REDE%20VIDA.png</thumbnail>
+<fanart>https://ia902702.us.archive.org/25/items/icon-rede-vida/icon%20REDE%20VIDA.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]All Sports TV (DF)[/COLOR][/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1016126849.m3u8</link>
+<thumbnail>https://ia800408.us.archive.org/14/items/all-sports-tv/All%20Sports%20TV.png</thumbnail>
+<fanart>https://ia800408.us.archive.org/14/items/all-sports-tv/All%20Sports%20TV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Gazeta (Rede Gazeta)(SP)[/COLOR][/B]</title>
+<link>https://live-b.cf.dmcdn.net/sec2(7gliVtG8R6CfLs8TM_c_xyJ-CTOetUlli3bv_hHbbp3l6gIy0k275E7ZI97aMXJzLbUCQ24z20l5BB9LYePwyTqjnmxG9sj2t9bakAGPftw)/dm/3/x8ttlxm/s/live-3.m3u8</link>
+<thumbnail>https://ia800409.us.archive.org/18/items/tv-gazeta/TV%20Gazeta.png</thumbnail>
+<fanart>https://ia800409.us.archive.org/18/items/tv-gazeta/TV%20Gazeta.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Aracati(CE)[/COLOR][/B]</title>
+<link>https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w580829248.m3u8</link>
+<thumbnail>https://ia902708.us.archive.org/28/items/tv-aracati/Tv%20Aracati.png</thumbnail>
+<fanart>https://ia902708.us.archive.org/28/items/tv-aracati/Tv%20Aracati.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TV Aratu(BA)[/COLOR][/B]</title>
+<link>https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist_w432406488.m3u8</link>
+<thumbnail>https://ia902902.us.archive.org/3/items/tv-aratu/TV%20Aratu.png</thumbnail>
+<fanart>https://ia902902.us.archive.org/3/items/tv-aratu/TV%20Aratu.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Osório News(RS)[/COLOR][/B]</title>
+<link>https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w402799497.m3u8</link>
+<thumbnail>https://ia800403.us.archive.org/11/items/tv-osorio-news/Tv%20Os%C3%B3rio%20News.png</thumbnail>
+<fanart>https://ia800403.us.archive.org/11/items/tv-osorio-news/Tv%20Os%C3%B3rio%20News.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]RBATV (Band PA) (PA)[/COLOR][/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8</link>
+<thumbnail>https://archive.org/download/RBATV/RBATV.png</thumbnail>
+<fanart>https://archive.org/download/RBATV/RBATV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]AWTV[/COLOR][/B]</title>
+<link>https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8</link>
+<thumbnail>https://ia903203.us.archive.org/3/items/awtv_20240618/AWTV.png</thumbnail>
+<fanart>https://ia903203.us.archive.org/3/items/awtv_20240618/AWTV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TCM-TV(RN)[/COLOR][/B]</title>
+<link>https://live.tcm10.com.br/tcm10hd/stream.m3u8</link>
+<thumbnail>https://archive.org/download/tcm-tv/TCM-TV.png</thumbnail>
+<fanart>https://archive.org/download/tcm-tv/TCM-TV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Clássicos do Cinema[/COLOR][/B]</title>
+<link>https://stmv1.srvif.com/movies1/movies1/chunklist_w386078239.m3u8</link>
+<thumbnail>https://ia600401.us.archive.org/25/items/icon-classicos-da-tv/iconCLASSICOS%20DA%20TV.png</thumbnail>
+<fanart>https://ia600401.us.archive.org/25/items/icon-classicos-da-tv/iconCLASSICOS%20DA%20TV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+#
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tela Viva Tv[/COLOR][/B]</title>
+<link>https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w135575095.m3u8</link>
+<thumbnail>https://archive.org/download/tela-viva-tv-1/TELA-VIVA-TV-1.png</thumbnail>
+<fanart>https://archive.org/download/tela-viva-tv-1/TELA-VIVA-TV-1.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+3
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Mais Família (SP)[/COLOR][/B]</title>
+<link>https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1869274378.m3u8</link>
+<thumbnail>https://ia800401.us.archive.org/31/items/rede-mais-familia/Rede%20Mais%20Fam%C3%ADlia.png</thumbnail>
+<fanart>https://ia800401.us.archive.org/31/items/rede-mais-familia/Rede%20Mais%20Fam%C3%ADlia.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
+
+
+
+
