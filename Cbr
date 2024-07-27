@@ -228,7 +228,7 @@
 <fanart>https://archive.org/download/tela-viva-tv-1/TELA-VIVA-TV-1.png</fanart>
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
 </item>
-3
+#
 <item>
 <title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Mais Família (SP)[/COLOR][/B]</title>
 <link>https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1869274378.m3u8</link>
