@@ -1,10 +1,4 @@
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Globo (RS)[/COLOR][/B]</title>
-<link>https://embedcanaistv.site/globors/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
-</item>
+
 ##############################
 <item>
 <title>[B][COLOR gold]●[/COLOR] [COLOR lime]CANAIS ABERTOS BRASIL[/COLOR][COLOR gold]●[/COLOR][/B]</title>
@@ -13,6 +7,13 @@
 <fanart>https://archive.org/download/iconFONTES/iconFONTES.png</fanart>
 <info>No BoxStream, você tem acesso aos principais canais abertos brasileiros, como Globo, SBT, Record e Band, em alta qualidade. Nossa plataforma garante uma transmissão estável e sem interrupções, com uma interface intuitiva que facilita a navegação. Personalize suas listas de favoritos e assista a qualquer momento em diversos dispositivos. Atualizações constantes garantem que você sempre tenha acesso ao melhor conteúdo disponível. BoxStream é gratuito, legalizado e com suporte ao cliente dedicado. Transforme sua experiência de assistir TV com o BoxStream!</info>
 ##############################
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Rede Globo (RS)[/COLOR][/B]</title>
+<link>https://embedcanaistv.site/globors/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 <item>
 <title>[B][COLOR lime]●[/COLOR] [COLOR gold]CNN Brasil[/COLOR][/B]</title>
 <link>https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w380738139.m3u8</link>
